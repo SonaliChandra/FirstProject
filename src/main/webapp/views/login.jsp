@@ -53,8 +53,8 @@ margin:100px;
 <div>
 <br>
 <table>
-<tr><td>User Name</td><td> <input type="text" id="uname" name="username"/></td></tr>
-<tr><td>Password </td><td><input type="password" id="pwd" name="password"/></td></tr>
+<tr><td>User Name</td><td> <input type="text" id="uname" name="username" required/></td></tr>
+<tr><td>Password </td><td><input type="password" id="pwd" name="password" required/></td></tr>
 <tr><td colspan="2" align="Center"><input type="Submit" value="login"/></td></tr>
 </table>
 </div>
